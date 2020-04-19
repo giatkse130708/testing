@@ -1,0 +1,34 @@
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Tests.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Tests.pdb
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\DateTimeCheckerApplication.pdb
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\DateTimeCheckerApplication.exe.config
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\obj\Debug\Tests.dll
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\Tests\obj\Debug\Tests.pdb
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Tests.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Tests.pdb
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\DateTimeCheckerApplication.pdb
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\DateTimeCheckerApplication.exe.config
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\obj\Debug\Tests.dll
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\Tests\obj\Debug\Tests.pdb

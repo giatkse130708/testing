@@ -1,0 +1,10 @@
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Release\DateTimeCheckerApplication.exe.config
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Release\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Release\DateTimeCheckerApplication.pdb
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.csprojAssemblyReference.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.Form1.resources
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.Properties.Resources.resources
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.csproj.GenerateResource.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Release\DateTimeCheckerApplication.pdb

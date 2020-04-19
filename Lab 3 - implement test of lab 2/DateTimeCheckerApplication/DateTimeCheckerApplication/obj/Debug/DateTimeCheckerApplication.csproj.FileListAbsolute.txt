@@ -1,0 +1,20 @@
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.exe.config
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.pdb
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csprojAssemblyReference.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.Form1.resources
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.Properties.Resources.resources
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.GenerateResource.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\source\repos\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.pdb
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.exe.config
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.pdb
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csprojAssemblyReference.cache
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.Form1.resources
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.Properties.Resources.resources
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.GenerateResource.cache
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.exe
+C:\Users\Kha Gia\Downloads\Lab Software testing\Lab 3 - implement test of lab 2\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.pdb
